@@ -4,6 +4,7 @@ title: '華人癲狂殺人之慘事（《東華報》1906-08-25 第6版，澳洲
   shi [A Newspaper Report on the Zhao Dai Case]: Transcription Dataset'
 type: dataset
 version: 0.2.0
+doi: "10.5281/zenodo.24412530"
 authors:
 - family-names: Chu
   given-names: Chen-Yu
