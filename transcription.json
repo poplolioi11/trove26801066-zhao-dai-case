@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "work_key": "trove26801066a",
+    "title": "華人癲狂殺人之慘事",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "華人癲狂殺人之慘事（《東華報》1906-08-25 第6版，澳洲國家圖書館） / Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "◎華人癲狂殺人之慘事　本月十五號。有華人名趙帶。攜"
+            },
+            {
+              "text": "一鐵斧。自篇能希壚地方。搭火車來雪梨。及行至車站之時"
+            },
+            {
+              "text": "。卽狀類癲狂。與某西人相衝撞。趙帶舉斧相向。乘勢猛擊"
+            },
+            {
+              "text": "。幸其疾于趨避。僅受微傷。其後趙帶越過車站。潛入山林"
+            },
+            {
+              "text": "。隨往該地附近。擊殺九歲小童一名。十五歲小童一名。並"
+            },
+            {
+              "text": "馳往某西人家內。行入睡房。意圖放火。幸一時附近之人。"
+            },
+            {
+              "text": "得聞其事。卽走報巡差。急往擒捕。當時圍而觀者。其數十"
+            },
+            {
+              "text": "人。據趙帶自云。有魔鬼曾與之言。謂彼能殺三人。則可以"
+            },
+            {
+              "text": "速升天堂云云。然則其顚狂變性。並非出自有心者。蓋可知"
+            },
+            {
+              "text": "矣。其後本埠華人。深憐該兩西童之無辜受害。已致書以弔"
+            },
+            {
+              "text": "慰之。並擬畧捐欵項。以撫恤該兩童之父母家屬。以示深切"
+            },
+            {
+              "text": "憐憫之意云。"
+            },
+            {
+              "text": "按趙帶在篇能希壚地方。以耕園為業。平日素守本分。該"
+            },
+            {
+              "text": "地西人。極愛重之。且該西童等。尤與趙帶甚相親洽。今"
+            },
+            {
+              "text": "忽召此大禍。實令人不及逆料矣。"
+            },
+            {
+              "text": "記者又按此案。定于本月廿七號開審。"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 2,
+          "context": "篇能希壚",
+          "candidates": [
+            "篇能希壚",
+            "篇能希爐"
+          ],
+          "note": "報上地名末字底部筆畫不易區分。"
+        },
+        {
+          "side": "single",
+          "column": 9,
+          "context": "顚狂",
+          "candidates": [
+            "顚狂",
+            "顛狂"
+          ],
+          "note": "保留異体候讀。"
+        },
+        {
+          "side": "single",
+          "column": 11,
+          "context": "擬畧",
+          "candidates": [
+            "擬畧"
+          ],
+          "note": "報上動詞形待較高解析影像再核。"
+        }
+      ],
+      "observations": "首欄題頭雙圈。正文及分段按語共十六欄，末欄兼開本版另一篇。有關同案之〈兩善俱備〉為獨立題頭資料。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "catalogue_page": 6,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page26801066/level5",
+      "sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "label": "1906-08-25 第6版",
+      "dimensions": [
+        2939,
+        3907
+      ],
+      "article_extent": [
+        1921,
+        280,
+        2648,
+        1132
+      ],
+      "article_regions": [
+        [
+          1921,
+          280,
+          2648,
+          1132
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}

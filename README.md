@@ -1,0 +1,34 @@
+# 華人癲狂殺人之慘事（《東華報》1906-08-25 第6版，澳洲國家圖書館） / Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case]: Transcription Dataset
+
+《東華報》1906-08-25 刊載的〈華人癲狂殺人之慘事〉。報載雪梨趙帶案的經過、當事人自述、警差拘捕與預定開審日期，附記者按語。同版〈兩善俱備〉為同案的另一篇獨立社群報導。
+
+Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case] appeared in Tung Wah Times (1906-08-25). The report describes the Zhao Dai case in Sydney, with statements attributed to the accused, police custody and notice of a hearing. The separately headed Liang shan ju bei on the same page documents the community response to the same case.
+
+## V0.1.0
+
+完整收錄第6版此篇原題與正文 16 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 16 source columns on page 6. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+
+## 資料與原件 / Data and source
+
+TXT 供逐欄閱讀，JSON 保留逐幅來源欄位，TEI XML 提供文字層與影像對應。原圖可透過數位館瀏覽。
+
+The TXT, JSON and TEI XML share scan and column references. Images are linked to the institution’s digital viewer.
+
+[館方書目 / Catalogue](https://trove.nla.gov.au/newspaper/page/26801066) · [原圖瀏覽器 / Image viewer](https://trove.nla.gov.au/ndp/imageservice/nla.news-page26801066/level5)
+
+## 方法與覆核 / Methods and review
+
+由 AI 依固定館方影像逐欄讀字，保留原字、版面與疑讀。照錄原題、時代用字與原欄次。疑讀按欄記在 JSON。人類全文雙校、專家審定、同儕審查及準確率量測尚未進行。實際模型識別與使用量未知。此資料公開供比對與引用，處理程式及影像另存。
+
+An AI assistant transcribed the fixed source images column by column, preserving source forms, layout and uncertain readings. Headings, historical terminology and source column order are preserved. Uncertainties are recorded by column. Human proofreading, expert review, peer review and accuracy measurement are pending. The actual model identifiers and usage are unknown.
+
+## 相關研究 / Related scholarship
+
+- [澳洲國家圖書館著作權期間說明](https://www.library.gov.au/services/copyright-library-collections/how-long-does-copyright-last)
+- [Tung Wah Newspaper Index（澳洲報刊英語檢索索引）](https://resources.chineseaustralia.org/tung_wah_newspaper_index)
+
+## 引用及訂正 / Citation and corrections
+
+曲宸宇（Chu, Chen-Yu）整理。引用本版請參考 [CITATION.cff](CITATION.cff)。如有可比對的字形，請附館方影像編號與欄位於 [Issues](https://github.com/poplolioi11/trove26801066-zhao-dai-case/issues)。權利範圍見 [LICENSE.md](LICENSE.md)。
