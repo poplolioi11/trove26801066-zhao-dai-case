@@ -1,0 +1,139 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "一鐵斧。自篇能希壚地方。搭火車來雪梨。及行至車站之時",
+      "after": "一鐵斧。自篇能希爐地方。搭火車來雪梨。及行至車站之時",
+      "reason": "此處及欄十三同地名，原圖末字左邊為火旁。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 11,
+      "kind": "main",
+      "op": "replace",
+      "before": "慰之。並擬畧捐欵項。以撫恤該兩童之父母家屬。以示深切",
+      "after": "慰之。並擬署捐欵項。以撫恤該兩童之父母家屬。以示深切",
+      "reason": "原圖「擬」後見罒上與者形，依原字取「署」。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 13,
+      "kind": "main",
+      "op": "replace",
+      "before": "按趙帶在篇能希壚地方。以耕園為業。平日素守本分。該",
+      "after": "按趙帶在篇能希爐地方。以耕園爲業。平日素守本分。該",
+      "reason": "此處及欄二同地名，原圖末字左邊為火旁。原圖取爲字字形。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 9,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "context": "卽狀類癲狂",
+      "alternatives": [
+        "卽",
+        "即"
+      ],
+      "reason": "原版字左部近皀，保留初錄字形。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "context": "車站。潛入",
+      "alternatives": [
+        "。",
+        "　"
+      ],
+      "reason": "原圖兩句中間有小圈，保留原版圈點。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "context": "卽走報",
+      "alternatives": [
+        "卽",
+        "即"
+      ],
+      "reason": "原版字左部近皀，保留初錄字形。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 9,
+      "context": "顚狂",
+      "alternatives": [
+        "顚狂",
+        "顛狂"
+      ],
+      "reason": "原版真旁倒匕形留讀。",
+      "source_bbox": [
+        1921,
+        280,
+        2648,
+        1132
+      ]
+    }
+  ]
+}

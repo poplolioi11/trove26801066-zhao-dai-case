@@ -4,11 +4,11 @@
 
 Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case] appeared in Tung Wah Times (1906-08-25). The report describes the Zhao Dai case in Sydney, with statements attributed to the accused, police custody and notice of a hearing. The separately headed Liang shan ju bei on the same page documents the community response to the same case.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第6版此篇原題與正文 16 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第6版此篇原題與正文 16 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 3 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 16 source columns on page 6. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 16 source columns on page 6. An independent image reading was compared with the first transcription. Source-image adjudication adopted 3 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

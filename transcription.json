@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "trove26801066a",
     "title": "華人癲狂殺人之慘事",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "華人癲狂殺人之慘事（《東華報》1906-08-25 第6版，澳洲國家圖書館） / Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -26,7 +26,7 @@
               "text": "◎華人癲狂殺人之慘事　本月十五號。有華人名趙帶。攜"
             },
             {
-              "text": "一鐵斧。自篇能希壚地方。搭火車來雪梨。及行至車站之時"
+              "text": "一鐵斧。自篇能希爐地方。搭火車來雪梨。及行至車站之時"
             },
             {
               "text": "。卽狀類癲狂。與某西人相衝撞。趙帶舉斧相向。乘勢猛擊"
@@ -53,13 +53,13 @@
               "text": "矣。其後本埠華人。深憐該兩西童之無辜受害。已致書以弔"
             },
             {
-              "text": "慰之。並擬畧捐欵項。以撫恤該兩童之父母家屬。以示深切"
+              "text": "慰之。並擬署捐欵項。以撫恤該兩童之父母家屬。以示深切"
             },
             {
               "text": "憐憫之意云。"
             },
             {
-              "text": "按趙帶在篇能希壚地方。以耕園為業。平日素守本分。該"
+              "text": "按趙帶在篇能希爐地方。以耕園爲業。平日素守本分。該"
             },
             {
               "text": "地西人。極愛重之。且該西童等。尤與趙帶甚相親洽。今"
@@ -77,16 +77,6 @@
       "issues": [
         {
           "side": "single",
-          "column": 2,
-          "context": "篇能希壚",
-          "candidates": [
-            "篇能希壚",
-            "篇能希爐"
-          ],
-          "note": "報上地名末字底部筆畫不易區分。"
-        },
-        {
-          "side": "single",
           "column": 9,
           "context": "顚狂",
           "candidates": [
@@ -94,15 +84,6 @@
             "顛狂"
           ],
           "note": "保留異体候讀。"
-        },
-        {
-          "side": "single",
-          "column": 11,
-          "context": "擬畧",
-          "candidates": [
-            "擬畧"
-          ],
-          "note": "報上動詞形待較高解析影像再核。"
         }
       ],
       "observations": "首欄題頭雙圈。正文及分段按語共十六欄，末欄兼開本版另一篇。有關同案之〈兩善俱備〉為獨立題頭資料。",

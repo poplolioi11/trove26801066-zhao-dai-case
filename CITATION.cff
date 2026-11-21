@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '華人癲狂殺人之慘事（《東華報》1906-08-25 第6版，澳洲國家圖書館） / Huaren dian kuang sha ren zhi can
   shi [A Newspaper Report on the Zhao Dai Case]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
